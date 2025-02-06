@@ -1,1 +1,3 @@
 this is a bug
+this is a new line of bug
+another line of bug
